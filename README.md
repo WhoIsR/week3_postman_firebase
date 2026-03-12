@@ -59,18 +59,18 @@ Endpoint ini digunakan untuk mendaftarkan *user* baru ke dalam *database* Fireba
 > }
 > ```
 
-<img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/873710ea-d7d7-46f6-97dd-ac64eb182b7a" />
-*Respon 200 OK saat berhasil melakukan registrasi*
+<img width="1092" height="605" alt="Screenshot Success Register" src="https://github.com/user-attachments/assets/873710ea-d7d7-46f6-97dd-ac64eb182b7a" />
+<br><em>Respon 200 OK saat berhasil melakukan registrasi</em>
 
+<br><br>
 
+<img width="1080" height="441" alt="Screenshot gagal Register" src="https://github.com/user-attachments/assets/c023f2d0-298c-430d-8887-e3f4af638090" />
+<br><em>Respon 400 Bad saat gagal karena email sudah terdaftar</em>
 
-<img width="1080" height="441" alt="image" src="https://github.com/user-attachments/assets/c023f2d0-298c-430d-8887-e3f4af638090" />
-*Respon 400 Bad saat gagal karena email sudah terdaftar*
+<br><br>
 
-
-
-<img width="1059" height="445" alt="image" src="https://github.com/user-attachments/assets/5a7210ae-377d-4b0f-abeb-05933828786e" />
-*Respon 400 Bad saat gagal karena mengisi password kurang dari 6 karakter*
+<img width="1059" height="445" alt="Screenshot gagal Register" src="https://github.com/user-attachments/assets/5a7210ae-377d-4b0f-abeb-05933828786e" />
+<br><em>Respon 400 Bad saat gagal karena mengisi password kurang dari 6 karakter</em>
 
 ---
 
