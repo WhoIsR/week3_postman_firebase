@@ -59,7 +59,7 @@ Endpoint ini digunakan untuk mendaftarkan *user* baru ke dalam *database* Fireba
 > }
 > ```
 
-![Screenshot Success Register](<img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/873710ea-d7d7-46f6-97dd-ac64eb182b7a" />)
+<img width="1092" height="605" alt="image" src="https://github.com/user-attachments/assets/873710ea-d7d7-46f6-97dd-ac64eb182b7a" />
 *Respon 200 OK saat berhasil melakukan registrasi*
 
 ![Screenshot gagal Register](<img width="1080" height="441" alt="image" src="https://github.com/user-attachments/assets/c023f2d0-298c-430d-8887-e3f4af638090" />)
