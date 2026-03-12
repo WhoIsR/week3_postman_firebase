@@ -109,10 +109,12 @@ Langkah ini digunakan untuk membuktikan apakah sistem Firebase sudah mencatat pe
 
 Ketika di-*send* sebelum email diklik, respon JSON pada bagian `users` akan menampilkan `"emailVerified": false`. Namun, jika Anda mengirim ulang request ini **setelah** mengklik tautan di email, statusnya akan langsung berubah menjadi `"emailVerified": true`.
 
-![Screenshot Cek Status Lookup](<img width="331" height="67" alt="image" src="https://github.com/user-attachments/assets/2019eebf-dae4-4ecb-bd67-e62dbdd3be79" />)
+<img width="331" height="67" alt="image" src="https://github.com/user-attachments/assets/2019eebf-dae4-4ecb-bd67-e62dbdd3be79" />
 *Respon dari accounts:lookup yang menampilkan status emailVerified: false*
 
-![Screenshot Cek Status Lookup](<img width="320" height="69" alt="image" src="https://github.com/user-attachments/assets/e455a197-d722-4f08-9a9a-a6828134b480" />)
+<br><br>
+
+<img width="320" height="69" alt="image" src="https://github.com/user-attachments/assets/e455a197-d722-4f08-9a9a-a6828134b480" />
 *Respon dari accounts:lookup yang menampilkan status emailVerified: True*
 
 ---
